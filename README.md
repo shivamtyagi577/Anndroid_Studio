@@ -30,6 +30,6 @@ dependencies
 ```
 implementation 'com.airbnb.android:lottie:3.7.1'
 ```
-dependenies will vary as 3.7.2 or 3.7.3 and so on 
+dependenies will vary as 3.7.2 or 3.7.3 and so on
 
 
